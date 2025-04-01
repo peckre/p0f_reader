@@ -38,5 +38,3 @@ Then follow the prompt to choose between:
 - A temporary `.pcap` file is created
 - `p0f` is run on that file and results are printed
 - File is deleted after processing
-  
-```
